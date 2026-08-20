@@ -1,4 +1,6 @@
 # TestAutomationFrameworkPOC
+# ApplicationName
+Google Search 
 
 A small proof-of-concept Playwright test automation framework showing a root TypeScript Playwright setup and a JavaScript demo in `playwright-demo/`.
 
