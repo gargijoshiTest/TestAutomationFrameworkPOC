@@ -1,0 +1,4 @@
+{
+  "playwrightTestExplorer.projectPath": "playwright-demo",
+  "playwright.testConfig": "playwright-demo/playwright.config.js"
+}
